@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 281b759270cee34449da47afd9d42ea1
+timeCreated: 1476466787
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BadBird_0
+    21300002: BadBird_1
+    21300004: BadBird_2
+    21300006: BadBird_3
+    21300008: BadBird_4
+    21300010: BadBird_5
+    21300012: BadBird_6
+    21300014: BadBird_7
+    21300016: BadBird_8
+    21300018: BadBird_9
+    21300020: BadBird_10
+    21300022: BadBird_11
+    21300024: BadBird_12
+    21300026: BadBird_13
+    21300028: BadBird_14
+    21300030: BadBird_15
+    21300032: BadBird_16
+    21300034: BadBird_17
+    21300036: BadBird_18
+    21300038: BadBird_19
+    21300040: BadBird_20
+    21300042: BadBird_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 90
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BadBird_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 820
+        width: 110
+        height: 61
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 820
+        width: 110
+        height: 41
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 820
+        width: 110
+        height: 33
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 816
+        width: 110
+        height: 26
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 804
+        width: 110
+        height: 38
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 632
+        width: 110
+        height: 26
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 636
+        width: 110
+        height: 33
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 636
+        width: 110
+        height: 41
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 636
+        width: 110
+        height: 61
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 617
+        width: 108
+        height: 80
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 407
+        width: 103
+        height: 106
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 452
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 452
+        width: 110
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 452
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 448
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 252
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 264
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 268
+        width: 110
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 268
+        width: 110
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_19
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 268
+        width: 110
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BadBird_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

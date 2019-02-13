@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=678956545822
+and.BundleId=com.BigStudent.BirdVers
+proj.classDir=Assets
+proj.ConstantsClassName=GPS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e678956545822%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.BigStudent.BirdVers%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_first_10_coins%22%3eCgkInu7ap-ETEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_first_100_coins%22%3eCgkInu7ap-ETEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_first_1000_coins%22%3eCgkInu7ap-ETEAIQCA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_first_bird%22%3eCgkInu7ap-ETEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_one_more%22%3eCgkInu7ap-ETEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_and_one_more%22%3eCgkInu7ap-ETEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_first_loss%22%3eCgkInu7ap-ETEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_fly_round_10_birds%22%3eCgkInu7ap-ETEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_fly_round_25_birds%22%3eCgkInu7ap-ETEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_fly_round_50_birds%22%3eCgkInu7ap-ETEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_rich_man%22%3eCgkInu7ap-ETEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_airman%22%3eCgkInu7ap-ETEAIQBw%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=678956545822-f0092dad821h76mfb8rsd4n6p73drf7b.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
